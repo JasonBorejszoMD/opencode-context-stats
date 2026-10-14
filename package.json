@@ -1,0 +1,9 @@
+{
+  "name": "opencode-context-stats",
+  "version": "0.1.0",
+  "description": "Report this session's context window occupancy on demand, as a coarse band plus the underlying figures.",
+  "type": "module",
+  "private": false,
+  "license": "MIT",
+  "keywords": ["opencode", "opencode-plugin", "context-window", "tokens", "agent"]
+}
