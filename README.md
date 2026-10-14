@@ -75,7 +75,7 @@ The thresholds are deliberately conservative and coarse. Adjust them in
 ## Install
 
 ```
-opencode plugin add github.com/<owner>/opencode-context-stats
+opencode plugin add github.com/JasonBorejszoMD/opencode-context-stats
 ```
 
 Or copy the `index.ts` into `.opencode/plugins/context-stats/index.ts` in your
